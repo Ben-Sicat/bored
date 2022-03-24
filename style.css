@@ -1,0 +1,38 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+:root{
+    color:#8946A6;
+    color:#B762C1;
+    color:#EA99D5;
+    color:#FFCDDD;
+}
+body{
+    margin: 20px, 20px,20px;
+    ;
+}
+.wrapper{
+    
+    align-items: center;
+    
+   
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.header h1{
+    font-weight: bold;
+    font-size:27px;
+}
+.wrapper h1{
+    text-align: center;
+}
+.prompt{
+    margin-top:20px;
+}
+.btn{
+    margin-top:20px;
+    align-items: center;
+    
+}
+.footer{
+    margin-bottom: 0;
+    margin-top: 40vh;
+}
