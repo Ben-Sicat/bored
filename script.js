@@ -28,3 +28,15 @@ const messages = ["You are amazing and you are perfect the way you are",
 function textMessage(){
   message.innerHTML = messages[Math.floor(Math.random() * messages.length)];
 }
+function gH(){
+  window.location = 'https://github.com/Ben-Sicat'
+}
+function fB(){
+  window.location = 'https://www.facebook.com/cer.ben.75/'
+}
+function tW(){
+  window.location = 'https://twitter.com/http_sirben'
+}
+function lD(){
+  window.location = 'https://www.linkedin.com/in/benito-raphael-iv-sicat-aa5b89223/'
+}
