@@ -21,7 +21,10 @@ const messages = ["You are amazing and you are perfect the way you are",
                     "You matter!, despite the horrible things said and done to you by other people.<3",
                     "Kung BBM ka stop using my website :<< have a great day tho",
                     "IMISSYOU3000",
-                    "You make me feer speciar"]
+                    "You make me feer speciar",
+                    "I need money, We all need money, Let's not get worked up on petty people",
+                    "Send me food please!!!!",
+                    "Donate my Gcash Number is 09609129598"]
 
   message.innerHTML = "click the button"
 
